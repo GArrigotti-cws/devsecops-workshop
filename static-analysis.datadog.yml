@@ -19,11 +19,3 @@ jobs:
         dd_env: ci
         dd_site: datadoghq.com
         cpu_count: 2
-
-rulesets:
-  - python-best-practices
-  - python-code-style
-  - python-inclusive
-  - python-design
-  - python-security
-  - python-flask
