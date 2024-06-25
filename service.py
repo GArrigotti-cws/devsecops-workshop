@@ -58,4 +58,5 @@ def index():
 # Bind to localhost for development purposes and attach to the address 127.0.0.1
 # Replace with the following:
 # app.run(host="127.0.0.1")
+# no-dd-sa
 app.run(host="0.0.0.0")
